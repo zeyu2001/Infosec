@@ -10,7 +10,11 @@ I love to build and break things. Cybersecurity is one of the many fields I'm pa
 
 You can learn more about me from my [personal website](https://www.zeyu2001.com/).
 
-## \~# ls -la
+## \~# ls -la 2022
+
+* [Hosting a CTF - SEETF 2022 Organizational and Infrastructure Review](2022/hosting-a-ctf-seetf-2022-organizational-and-infrastructure-review.md)
+
+## \~# cat /etc/hosts
 
 The following is a list of infosec sites that are actively maintained by me. It will only grow over time!
 
