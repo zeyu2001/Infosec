@@ -147,7 +147,7 @@ As someone who is still new to this, here's a TL;DR of what you need to know:
 * A _Node_ is a virtual machine that can run containerised applications.
 * A Kubernetes _Cluster_ is a set of nodes. For our challenge cluster, we had 6 nodes running simultaneously during the CTF - this was scaled down to 2 nodes after the CTF was over.
 * _Pods_ are the smallest deployable units in Kubernetes. Each of these will run a single instance of a containerised application.
-* Kubernetes provides horizontal scaling by allowing us to use _Replicas_, which are multiple pods running the same application. These replicated ports can run across multiple nodes in the cluster, and are managed as a group. For each challenge, we ran 4 pods.
+* Kubernetes provides horizontal scaling by allowing us to use _Replicas_, which are multiple pods running the same application. These replicated pods can run across multiple nodes in the cluster, and are managed as a group. For each challenge, we ran 4 pods.
 * A _Service_ is a way for us to expose these pods. We used the ClusterIP service to expose each pod internally. This provides load balancing across the 4 pods of each challenge.
 
 ![](../.gitbook/assets/image.png)
