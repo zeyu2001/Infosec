@@ -34,7 +34,7 @@ The challenges with the lowest number of solves were:
 
 * Rev / SudoCV - 2 solves
 * Web / Charlotte's Web - 2 solves
-* Web / Flagportal Revenge (Flag 1) - 1 solve
+* Web / Flagportal Revenge (Flag 1) - 2 solves
 * Crypto / Modifiability - 1 solve
 * Rev / Susware - 1 solve
 * Rev / It's Right There - 1 solve
