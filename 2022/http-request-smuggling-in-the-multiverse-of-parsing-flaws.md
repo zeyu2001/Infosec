@@ -15,7 +15,7 @@ This article expands on my talk on the topic at [BSides Singapore ](https://bsid
 
 To understand HTTP request smuggling, we have to first take a trip down memory lane.
 
-The HTTP protocol has undergone several changes since its inception, and the latest protocol version is HTTP/2. But as of today, HTTP/1.x still comprises a significant amount of web traffic and is crucially important in understanding HTTP request smuggling.
+The HTTP protocol has undergone several changes since its inception, and the latest protocol version is HTTP/3. But as of today, HTTP/1.x still comprises a significant amount of web traffic and is crucially important in understanding HTTP request smuggling.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
