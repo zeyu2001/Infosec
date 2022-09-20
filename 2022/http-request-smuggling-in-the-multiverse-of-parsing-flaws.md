@@ -59,7 +59,7 @@ Second, most "traditional" request smuggling techniques have been patched. These
 
 The next part of this article will discuss _subtle_ deviations from the HTTP standard that can lead to request smuggling. These are vectors that may seem trivial but are often neglected.
 
-When implementing [RFC7230](https://datatracker.ietf.org/doc/html/rfc7230#section-4.1.1), often the `SHOULD` clauses are equally important in preventing HTTP request smuggling. Sometimes differences in interpreting such clauses can lead to disagreements between servers.
+Last, when implementing [RFC7230](https://datatracker.ietf.org/doc/html/rfc7230#section-4.1.1), often the `SHOULD` clauses are equally important in preventing HTTP request smuggling. Sometimes differences in interpreting such clauses can lead to disagreements between servers.
 
 ### Number Parsing Flaws
 
