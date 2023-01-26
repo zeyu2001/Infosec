@@ -14,7 +14,7 @@ You can learn more about me from my [personal website](https://www.zeyu2001.com/
 
 <details>
 
-<summary><a href="./#readiumjs-cloud-reader-everybody-gets-an-xss">ReadiumJS Cloud Reader - Everybody Gets an XSS!</a></summary>
+<summary><a href="2023/readiumjs-cloud-reader-everybody-gets-an-xss.md">ReadiumJS Cloud Reader - Everybody Gets an XSS!</a></summary>
 
 While participating in a bug bounty programme, I stumbled upon a (surprisingly, somewhat known) XSS vulnerability in the Readium cloud reader that affects many university websites and online libraries.
 
