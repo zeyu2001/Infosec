@@ -11,7 +11,7 @@ coverY: 0
 
 Late last year, I participated in a bug bounty programme organized by Singapore's [Ministry of Defence (MINDEF)](https://www.mindef.gov.sg/) where I received the Top Bug Bounty Hunter award (yay!).
 
-<figure><img src="../.gitbook/assets/cert (1).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cert.jpeg" alt=""><figcaption></figcaption></figure>
 
 Finding these bugs required a deep dive into the targets and their underlying technologies. This meant that, among other things, I learnt about the existence of the [EPUB format](https://www.w3.org/AudioVideo/ebook/) and the world of EPUB cloud readers.
 
