@@ -12,34 +12,20 @@ You can learn more about me from my [personal website](https://www.zeyu2001.com/
 
 ## \~# ls -la 2023
 
-<details>
-
-<summary><a href="2023/readiumjs-cloud-reader-everybody-gets-an-xss.md">ReadiumJS Cloud Reader — Everybody Gets an XSS!</a></summary>
+## [ReadiumJS Cloud Reader — Everybody Gets an XSS!](2023/readiumjs-cloud-reader-everybody-gets-an-xss.md)
 
 While participating in a bug bounty programme, I stumbled upon a (surprisingly, somewhat known) XSS vulnerability in the Readium cloud reader that affects many university websites and online libraries.
 
-I have attempted to get in touch with the maintainers to remediate the issue, but have not yet received any response. Going by the conventional 90-day disclosure timeline, I am now sharing details on this vulnerability.
-
-</details>
-
 ## \~# ls -la 2022
 
-<details>
-
-<summary><a href="2022/http-request-smuggling-in-the-multiverse-of-parsing-flaws.md">HTTP Request Smuggling in the Multiverse of Parsing Flaws</a></summary>
+### [HTTP Request Smuggling in the Multiverse of Parsing Flaws](2022/http-request-smuggling-in-the-multiverse-of-parsing-flaws.md)
 
 HTTP request smuggling is a vulnerability which arises when web servers and proxies interpret the length of a single HTTP request differently. While basic techniques have been known since 2005, renewed research interest in HTTP request smuggling in recent years have uncovered many new bugs in popular web proxies and servers.&#x20;
 
 Nowadays, novel HTTP request smuggling techniques rely on subtle deviations from the HTTP standard. Here, I discuss some of my recent findings and novel techniques.
 
-</details>
-
-<details>
-
-<summary><a href="2022/hosting-a-ctf-seetf-2022-organizational-and-infrastructure-review.md">Hosting a CTF — SEETF 2022 Organizational and Infrastructure Review</a></summary>
+### [Hosting a CTF — SEETF 2022 Organizational and Infrastructure Review](2022/hosting-a-ctf-seetf-2022-organizational-and-infrastructure-review.md)
 
 My experience in hosting SEETF 2022, and lessons learnt.
 
 SEETF is a cybersecurity Capture the Flag competition hosted by the Social Engineering Experts CTF team. We were pleased to host our inaugural competition in 2022, which saw over 2,000 participants and 1,200 teams. Of these teams, 740 solved at least one challenge.
-
-</details>
