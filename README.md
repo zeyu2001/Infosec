@@ -14,7 +14,7 @@ You can learn more about me from my [personal website](https://www.zeyu2001.com/
 
 <details>
 
-<summary><a href="2023/readiumjs-cloud-reader-everybody-gets-an-xss.md">ReadiumJS Cloud Reader - Everybody Gets an XSS!</a></summary>
+<summary><a href="2023/readiumjs-cloud-reader-everybody-gets-an-xss.md">ReadiumJS Cloud Reader — Everybody Gets an XSS!</a></summary>
 
 While participating in a bug bounty programme, I stumbled upon a (surprisingly, somewhat known) XSS vulnerability in the Readium cloud reader that affects many university websites and online libraries.
 
@@ -36,20 +36,10 @@ Nowadays, novel HTTP request smuggling techniques rely on subtle deviations from
 
 <details>
 
-<summary><a href="2022/hosting-a-ctf-seetf-2022-organizational-and-infrastructure-review.md">Hosting a CTF - SEETF 2022 Organizational and Infrastructure Review</a></summary>
+<summary><a href="2022/hosting-a-ctf-seetf-2022-organizational-and-infrastructure-review.md">Hosting a CTF — SEETF 2022 Organizational and Infrastructure Review</a></summary>
 
 My experience in hosting SEETF 2022, and lessons learnt.
 
 SEETF is a cybersecurity Capture the Flag competition hosted by the Social Engineering Experts CTF team. We were pleased to host our inaugural competition in 2022, which saw over 2,000 participants and 1,200 teams. Of these teams, 740 solved at least one challenge.
 
 </details>
-
-## \~# cat /etc/hosts
-
-The following is a list of infosec sites that are actively maintained by me. It will only grow over time!
-
-| Website                                                 | Description                                                                                                      |
-| ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| [CTF Writeups](https://ctf.zeyu2001.com/)               | Writeups from various Capture the Flag (CTF) competitions that I've participated in, or authored challenges for. |
-| [Pentesting Writeups](https://pentesting.zeyu2001.com/) | Writeups from my adventures in penetration testing and obtaining penetration testing certifications.             |
-| [My Vulnerable Website](https://learn.zeyu2001.com/)    | An intentionally vulnerable website designed to serve as an introduction to the basics of web hacking.           |
