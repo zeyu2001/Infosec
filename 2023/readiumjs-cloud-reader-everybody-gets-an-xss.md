@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# ReadiumJS Cloud Reader - Everybody Gets an XSS!
+# ReadiumJS Cloud Reader — Everybody Gets an XSS!
 
 ## Introduction
 
@@ -154,3 +154,4 @@ Additionally, the page's Content Security Policy can be used to restrict where s
 * 11 October 2022: Contacted maintainers through OSS platform [huntr.dev](https://huntr.dev/)
 * 16 December 2022: Contacted maintainers through GitHub issue
 * 27 January 2022: This blog post is released
+* 12 April 2023: CVE-2023-24720 assigned
