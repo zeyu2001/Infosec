@@ -7,6 +7,7 @@
 
 ## 2023
 
+* [Regular Expressions Are Hard](2023/regular-expressions-are-hard.md)
 * [ReadiumJS Cloud Reader — Everybody Gets an XSS!](2023/readiumjs-cloud-reader-everybody-gets-an-xss.md)
 
 ## 2022

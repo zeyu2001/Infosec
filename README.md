@@ -12,6 +12,10 @@ You can learn more about me from my [personal website](https://www.zeyu2001.com/
 
 ## \~# ls -la 2023
 
+### [Regular Expressions Are Hard](2023/regular-expressions-are-hard.md)
+
+From insufficient security fixes to ReDoS, regular expressions are hard to get right. Yet, they are integral to modern software security and development. Hopefully this article helps you avoid common pitfalls before it's too late!
+
 ### [ReadiumJS Cloud Reader — Everybody Gets an XSS!](2023/readiumjs-cloud-reader-everybody-gets-an-xss.md)
 
 While participating in a bug bounty programme, I stumbled upon a (surprisingly, somewhat known) XSS vulnerability in the Readium cloud reader that affects many university websites and online libraries.

@@ -2,7 +2,7 @@
 description: My experience in hosting a CTF, and lessons learnt.
 ---
 
-# Hosting a CTF - SEETF 2022 Organizational and Infrastructure Review
+# Hosting a CTF — SEETF 2022 Organizational and Infrastructure Review
 
 ## Introduction
 
@@ -150,7 +150,7 @@ As someone who is still new to this, here's a TL;DR of what you need to know:
 * Kubernetes provides horizontal scaling by allowing us to use _Replicas_, which are multiple pods running the same application. These replicated pods can run across multiple nodes in the cluster, and are managed as a group. For each challenge, we ran 4 pods.
 * A _Service_ is a way for us to expose these pods. We used the ClusterIP service to expose each pod internally. This provides load balancing across the 4 pods of each challenge.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (9).png>)
 
 #### Deploying our Challenges on Kubernetes
 
