@@ -103,7 +103,7 @@ On the other hand, if the leaky endpoint returns a 404, the `img` is rendered as
 
 ## Responsive Images
 
-The above technique is great, but it relies on our HTML injection being within the user's viewport!
+The above technique is great, but it relies on our HTML injection being within the user's viewport.
 
 If the injection is off-screen and the user doesn't scroll, can we still leak data? Of course, we can use element IDs and [scroll-to-text-fragment](https://chromestatus.com/feature/4733392803332096) to create a URL that forces a scroll, but these rely on user interaction and don't allow us to achieve consistent leaks in a real-world scenario. Ideally, we want to weaponise stored HTML injection in a reliable manner.
 
