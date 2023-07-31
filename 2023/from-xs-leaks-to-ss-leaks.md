@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# From XS-Leaks to SS-Leaks Using \<object>
+# From XS-Leaks to SS-Leaks Using object
 
 <figure><img src="../.gitbook/assets/carbon.png" alt=""><figcaption></figcaption></figure>
 
@@ -27,7 +27,7 @@ This means that for most techniques, _SameSite: Lax_ cookies are an effective de
 
 For instance, consider a scenario where an API returns a 200 status code response if results match a given search query, and a 404 status code otherwise. This is behaviour that one might expect from a search API — for example, on a social media site, being able to leak status codes could mean the ability to leak private posts, friends, and contacts. If the cookies were _SameSite: None_, stealing data would be trivial:
 
-1. Create a `script` element, and sets its `src` to the cross-origin target URL. <mark style="color:yellow;">`https://target.com/api/search?query=secret`</mark>.
+1. Create a `script` element, and set its `src` to the cross-origin target URL. <mark style="color:yellow;">`https://target.com/api/search?query=secret`</mark>.
 2. Define an `onload` handler and an `onerror` handler for the script.
 3. Finally, insert the `script` element into the DOM.
 4. If the target URL returns a 200 status code, the `onload` handler is executed. Otherwise, the `onerror` handler is executed.
