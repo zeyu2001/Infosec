@@ -12,6 +12,10 @@ You can learn more about me from my [personal website](https://www.zeyu2001.com/
 
 ## \~# ls -la 2023
 
+### [From XS-Leaks to SS-Leaks Using \<object>](2023/from-xs-leaks-to-ss-leaks-using-less-than-object-greater-than.md)
+
+Turning cross-site leaks (XS-Leaks) into "same-site leaks" using the object element to get around SameSite cookies. Nested objects, lazy loading and responsive images help us to conditionally perform callbacks based on HTTP response status codes.
+
 ### [Regular Expressions Are Hard](2023/regular-expressions-are-hard.md)
 
 From insufficient security fixes to ReDoS, regular expressions are hard to get right. Yet, they are integral to modern software security and development. Hopefully this article helps you avoid common pitfalls before it's too late!
