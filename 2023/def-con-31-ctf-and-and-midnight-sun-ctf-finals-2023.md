@@ -4,7 +4,7 @@ description: My first hacker summer camp experience 🏖️
 
 # DEF CON 31 CTF && Midnight Sun CTF Finals 2023
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption><p>Photoshop and weeb credits to Perfect Blue</p></figcaption></figure>
 
 This past month, I travelled to 3 countries: USA, Germany, and Sweden. I participated in the **DEF CON 31 CTF finals** with my team, **Blue Water** (a collaboration between Perfect Blue, Water Paddler, Samsung Research, Tea Deliverers, and Georgia Tech SSLab), and **Midnight Sun CTF** with a Singaporean team, **ThreeTop Walk**. This post serves as proof that I touched grass along the way.
 
