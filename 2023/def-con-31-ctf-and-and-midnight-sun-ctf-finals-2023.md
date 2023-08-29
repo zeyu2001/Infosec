@@ -196,7 +196,7 @@ We also made sure the Water Paddler sticker had its place on the sticker wall!
 
 ### DEF CON CTF
 
-Things come and go but I will never be 21 and whining about CTF infrastructure from a luxury suite with my teammates again. This year we played the DEF CON CTF from a suite in the Venetian. It was definitely an insane experience seeing a suite like this for the first time - you could easily get lost in here trying to find the washroom.
+Things come and go but I will never be 21 and whining about CTF infrastructure from a luxury suite with my teammates again. This year we played the DEF CON CTF from a suite in the [The Palazzo at The Venetian Resort](https://www.venetianlasvegas.com/towers/the-palazzo.html). It was definitely an insane experience seeing a suite like this for the first time - you could easily get lost in here trying to find the washroom.
 
 <div>
 
