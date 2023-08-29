@@ -7,6 +7,7 @@
 
 ## 2023
 
+* [DEF CON 31 CTF && Midnight Sun CTF Finals 2023](2023/def-con-31-ctf-and-and-midnight-sun-ctf-finals-2023.md)
 * [From XS-Leaks to SS-Leaks Using object](2023/from-xs-leaks-to-ss-leaks.md)
 * [Regular Expressions Are Hard](2023/regular-expressions-are-hard.md)
 * [ReadiumJS Cloud Reader — Everybody Gets an XSS!](2023/readiumjs-cloud-reader-everybody-gets-an-xss.md)

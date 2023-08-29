@@ -12,6 +12,10 @@ You can learn more about me from my [personal website](https://www.zeyu2001.com/
 
 ## \~# ls -la 2023
 
+### [DEF CON 31 CTF && Midnight Sun CTF Finals 2023](2023/def-con-31-ctf-and-and-midnight-sun-ctf-finals-2023.md)
+
+My first hacker summer camp experience 🏖️
+
 ### [From XS-Leaks to SS-Leaks Using object](2023/from-xs-leaks-to-ss-leaks.md)
 
 Turning cross-site leaks (XS-Leaks) into "same-site leaks" using the object element to get around SameSite cookies. Nested objects, lazy loading and responsive images help us to conditionally perform callbacks based on HTTP response status codes.

@@ -222,7 +222,7 @@ This is a good example of how research on web servers is equally important to th
 
 Because of the variability of the `Transfer-Encoding` header, the parsing behaviour of various servers when it comes to this header is quite interesting. In particular, I noted an interesting behaviour in the Node.js `http` module.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the original code, when `chunked` is matched, a check is made to see if `chunked` is the final encoding. If a CRLF sequence is encountered, `chunked` is taken to be the final encoding, and the request body will be parsed as chunked. Otherwise, it attempts to match `chunked` again.
 
@@ -339,7 +339,7 @@ If a message is received without Transfer-Encoding and with either multiple Cont
 
 If an upstream proxy processes the second `Content-Length` header instead, request smuggling attacks can occur.
 
-#### Node.js - Whitespace  Before First Header
+#### Node.js - Whitespace Before First Header
 
 This one is quite interesting. According to the RFC, whitespace between the start-line and the first header field is not allowed. It even explicitly mentions the associated security risks.
 

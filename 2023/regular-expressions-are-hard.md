@@ -145,7 +145,7 @@ Thankfully, though, [Painless scripts](https://www.elastic.co/guide/en/elasticse
 
 In this script, only 23 steps is needed in the regex algorithm to find the match.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 But when the last character in the test string is changed to an `x`, the string `aaaaaax` will cause the algorithm to take 74,380 steps instead.
 
