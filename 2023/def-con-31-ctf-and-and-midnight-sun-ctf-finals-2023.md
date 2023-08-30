@@ -266,7 +266,7 @@ After two weeks of scorching heat in LA, Vegas, and Munich, Stockholm's cool wea
 
 The CTF venue for Midnight Sun CTF is one of the best of any onsite CTF I've participated in. There is a central lunch venue with team banners hung up on the wall, and each team had a private room to work in.
 
-The central conference hall was also the venue for the live 1v1 pwn competition, which similar to DEF CON's LiveCTF.
+The central conference hall was also the venue for the live 1v1 pwn competition, which was similar to DEF CON's LiveCTF.
 
 <div>
 
